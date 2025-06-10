@@ -7,11 +7,11 @@ It includes various projects changes and adding functional and non functional be
 
 Topics to be included in the shell scripting
 
-1. print statement
-2. comments
-3. variables
-4. conditional , looping and branching statements
-5. functions
-6. input
+1. Print Statement
+2. Comments
+3. Variables
+4. Conditional , Looping and Branching statements
+5. Functions
+6. Input
    
 
